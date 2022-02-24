@@ -1,0 +1,4 @@
+.admin-color-fresh #redux-header, .wp-customizer #redux-header {background: #23282d;border-color: #0073aa;height: 0;padding: 0;}
+.redux-sidebar .redux-group-menu li a { background-color: #8a9a9a;color: #fff;}
+.admin-color-fresh .redux-container-image_select .redux-image-select-selected img, .wp-customizer .redux-container-image_select .redux-image-select-selected img {box-sizing: border-box; }
+

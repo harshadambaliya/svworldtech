@@ -1,0 +1,2276 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biscon\n"
+"POT-Creation-Date: 2020-05-28 07:21+0300\n"
+"PO-Revision-Date: 2016-02-06 10:39+0700\n"
+"Last-Translator: SecretLab <support@secretlab.pw>\n"
+"Language-Team: SecretLab <support@secretlab.pw>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_n_noop;_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: lib\n"
+"X-Poedit-SearchPathExcluded-1: .idea\n"
+
+#: author-bio.php:22
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: author-bio.php:26
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: comments.php:21
+msgid "Discussion"
+msgstr ""
+
+#: comments.php:41
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:42
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:19
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: content-none.php:19
+msgid "Get started here."
+msgstr ""
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: framework/class-theme-demo.php:112
+msgid "Biscon"
+msgstr ""
+
+#: framework/class-theme-demo.php:117
+msgid "Demo 21: Business Consulting"
+msgstr ""
+
+#: framework/class-theme-demo.php:129 framework/inc/class-welcome-docs.php:66
+#: framework/inc/class-welcome-page.php:341
+msgid "Theme Options"
+msgstr ""
+
+#: framework/class-theme-demo.php:130
+msgid "SecretLab Theme Options"
+msgstr ""
+
+#: framework/class-theme-demo.php:183
+msgid "Developed with love by www.SecretLab.pw"
+msgstr ""
+
+#: framework/class-theme-demo.php:225 framework/class-theme-demo.php:2230
+#: framework/inc/class-welcome-docs.php:45
+#: framework/inc/class-welcome-docs.php:90
+#: framework/inc/class-welcome-page.php:194
+msgid "Documentation"
+msgstr ""
+
+#: framework/class-theme-demo.php:230 framework/inc/class-welcome-page.php:375
+msgid "Support"
+msgstr ""
+
+#: framework/class-theme-demo.php:235
+msgid "SecretLab Website"
+msgstr ""
+
+#: framework/class-theme-demo.php:239
+msgid "Support Panel: "
+msgstr ""
+
+#: framework/class-theme-demo.php:244
+msgid "General Setting"
+msgstr ""
+
+#: framework/class-theme-demo.php:258
+msgid "Google API Key"
+msgstr ""
+
+#: framework/class-theme-demo.php:259
+msgid "You can get a new API key at https://developers.google.com/maps/documentation/javascript/get-api-key"
+msgstr ""
+
+#: framework/class-theme-demo.php:266
+msgid "Email for Contact Form 7"
+msgstr ""
+
+#: framework/class-theme-demo.php:267 framework/class-theme-demo.php:275
+msgid "You can add a specific email address at each form"
+msgstr ""
+
+#: framework/class-theme-demo.php:274
+msgid "Sender Email for Contact Form 7 Plugin"
+msgstr ""
+
+#: framework/class-theme-demo.php:283
+msgid "Select Homepage"
+msgstr ""
+
+#: framework/class-theme-demo.php:284
+msgid " You should select your homepage and blogpage on <a href=\"/wp-admin/options-reading.php\">/wp-admin/options-reading.php</a>"
+msgstr ""
+
+#: framework/class-theme-demo.php:290
+msgid "Select Header"
+msgstr ""
+
+#: framework/class-theme-demo.php:298 framework/class-theme-demo.php:1755
+msgid "Select Header type"
+msgstr ""
+
+#: framework/class-theme-demo.php:306
+msgid "Select Slider"
+msgstr ""
+
+#: framework/class-theme-demo.php:307 framework/class-theme-demo.php:1418
+msgid "Select slider for header section"
+msgstr ""
+
+#: framework/class-theme-demo.php:310 framework/class-theme-demo.php:1420
+#: framework/class-theme-demo.php:1811
+msgid "The Theme Support Layer Slider, Smart Slider and Slider Revolution, but couldn't find it. Install one of the plug-ins to choose the slider to display in the header."
+msgstr ""
+
+#: framework/class-theme-demo.php:318
+msgid "Select Footer"
+msgstr ""
+
+#: framework/class-theme-demo.php:327
+msgid "Display Scroll to Top Button?"
+msgstr ""
+
+#: framework/class-theme-demo.php:335
+msgid "Display Page Loader"
+msgstr ""
+
+#: framework/class-theme-demo.php:336
+msgid "Do you want to show page loader, when website is loading?"
+msgstr ""
+
+#: framework/class-theme-demo.php:345
+msgid "Select Background Color for Page Loader"
+msgstr ""
+
+#: framework/class-theme-demo.php:356
+msgid "Select Arrow Color for Page Loader"
+msgstr ""
+
+#: framework/class-theme-demo.php:367
+msgid "Layout"
+msgstr ""
+
+#: framework/class-theme-demo.php:374
+msgid "Display Page H1 Heading"
+msgstr ""
+
+#: framework/class-theme-demo.php:375
+msgid "Do you want to show H1 heading for pages? Usually we display it through drag&drop builder"
+msgstr ""
+
+#: framework/class-theme-demo.php:383
+msgid "Transition time"
+msgstr ""
+
+#: framework/class-theme-demo.php:384
+msgid "Select hover effects time in ms"
+msgstr ""
+
+#: framework/class-theme-demo.php:385
+msgid "Slider description. Min: 0, max: 1000, step: 5, default value: 600"
+msgstr ""
+
+#: framework/class-theme-demo.php:397 framework/class-theme-demo.php:1698
+msgid "Select page layout"
+msgstr ""
+
+#: framework/class-theme-demo.php:402 framework/class-theme-demo.php:1467
+#: framework/class-theme-demo.php:1703
+msgid "Full width layout"
+msgstr ""
+
+#: framework/class-theme-demo.php:406 framework/class-theme-demo.php:1471
+#: framework/class-theme-demo.php:1707
+msgid "Boxed layout, maximum resolution - 1170 px"
+msgstr ""
+
+#: framework/class-theme-demo.php:415 framework/class-theme-demo.php:1480
+#: framework/class-theme-demo.php:1717
+msgid "Background settings for box"
+msgstr ""
+
+#: framework/class-theme-demo.php:430 framework/class-theme-demo.php:1494
+#: framework/class-theme-demo.php:1731
+msgid "Background settings for content section"
+msgstr ""
+
+#: framework/class-theme-demo.php:445
+msgid "Select sidebar option"
+msgstr ""
+
+#: framework/class-theme-demo.php:446
+msgid "Default sidebars is Left Sidebar and Right sidebar"
+msgstr ""
+
+#: framework/class-theme-demo.php:452 framework/class-theme-demo.php:1513
+#: framework/class-theme-demo.php:1634
+msgid "Without sidebar"
+msgstr ""
+
+#: framework/class-theme-demo.php:456 framework/class-theme-demo.php:1517
+#: framework/class-theme-demo.php:1638
+msgid "2 sidebars"
+msgstr ""
+
+#: framework/class-theme-demo.php:460 framework/class-theme-demo.php:1521
+#: framework/class-theme-demo.php:1642
+msgid "Left sidebar"
+msgstr ""
+
+#: framework/class-theme-demo.php:464 framework/class-theme-demo.php:1525
+#: framework/class-theme-demo.php:1646
+msgid "Right sidebar"
+msgstr ""
+
+#: framework/class-theme-demo.php:473
+msgid "Widgets for Left Sidebar"
+msgstr ""
+
+#: framework/class-theme-demo.php:482
+msgid "Widgets for Right Sidebar"
+msgstr ""
+
+#: framework/class-theme-demo.php:493
+msgid "Portfolio"
+msgstr ""
+
+#: framework/class-theme-demo.php:503
+msgid "Options for Portfolio Post Type"
+msgstr ""
+
+#: framework/class-theme-demo.php:509
+msgid "URL Slug For Portfolio Post Type"
+msgstr ""
+
+#: framework/class-theme-demo.php:510
+msgid " After you change it, go to <a href=\"options-permalink.php\" target=\"_blank\">/wp-admin/options-permalink.php</a> and click \"Save Changes\" button to activate the URL slug"
+msgstr ""
+
+#: framework/class-theme-demo.php:517
+msgid "Portfolio Page H1 Heading"
+msgstr ""
+
+#: framework/class-theme-demo.php:518
+msgid "Heading for Portfolio Archive page"
+msgstr ""
+
+#: framework/class-theme-demo.php:524
+msgid "Description Text Under H1 Heading"
+msgstr ""
+
+#: framework/class-theme-demo.php:525
+msgid "Allowed tags: a, img, br, em, strong, h1, h2, h3, h4, h5, h6, p, b, i, u, ol, ul, li, code, del"
+msgstr ""
+
+#: framework/class-theme-demo.php:534
+msgid "Color Scheme"
+msgstr ""
+
+#: framework/class-theme-demo.php:536
+msgid "Color scheme of the current design. You can create your own color scheme."
+msgstr ""
+
+#: framework/class-theme-demo.php:547 framework/class-theme-demo.php:1060
+msgid "Note"
+msgstr ""
+
+#: framework/class-theme-demo.php:548
+msgid "We recommend to export and save theme options setting before change everything."
+msgstr ""
+
+#: framework/class-theme-demo.php:557
+msgid "Select Color Scheme of Design"
+msgstr ""
+
+#: framework/class-theme-demo.php:558
+msgid "Select a color scheme preset, including typography and menu colors"
+msgstr ""
+
+#: framework/class-theme-demo.php:562
+msgid "Blue Orange"
+msgstr ""
+
+#: framework/class-theme-demo.php:567
+msgid "Blue Green"
+msgstr ""
+
+#: framework/class-theme-demo.php:572
+msgid "Green"
+msgstr ""
+
+#: framework/class-theme-demo.php:577
+msgid "Purple Orange"
+msgstr ""
+
+#: framework/class-theme-demo.php:582
+msgid "Blue Yellow"
+msgstr ""
+
+#: framework/class-theme-demo.php:587
+msgid "Red Orange"
+msgstr ""
+
+#: framework/class-theme-demo.php:598
+msgid "General Colors"
+msgstr ""
+
+#: framework/class-theme-demo.php:604
+msgid "Major Color"
+msgstr ""
+
+#: framework/class-theme-demo.php:615
+msgid "Dark Major Color"
+msgstr ""
+
+#: framework/class-theme-demo.php:627
+msgid "Links Color Option"
+msgstr ""
+
+#: framework/class-theme-demo.php:640
+msgid "Minor Color"
+msgstr ""
+
+#: framework/class-theme-demo.php:651
+msgid "Dark Minor Color"
+msgstr ""
+
+#: framework/class-theme-demo.php:663
+msgid "Background Color"
+msgstr ""
+
+#: framework/class-theme-demo.php:684
+msgid "Additional Colors"
+msgstr ""
+
+#: framework/class-theme-demo.php:691
+msgid "Gray Color"
+msgstr ""
+
+#: framework/class-theme-demo.php:702
+msgid "Gray Color Light"
+msgstr ""
+
+#: framework/class-theme-demo.php:713
+msgid "Gray Color Dark"
+msgstr ""
+
+#: framework/class-theme-demo.php:734
+msgid "Design"
+msgstr ""
+
+#: framework/class-theme-demo.php:742
+msgid "Options for major design styles"
+msgstr ""
+
+#: framework/class-theme-demo.php:751
+msgid "Padding Option for Boxed Background"
+msgstr ""
+
+#: framework/class-theme-demo.php:764
+msgid "Sidebars design styles"
+msgstr ""
+
+#: framework/class-theme-demo.php:769
+msgid "Sidebars Background Color"
+msgstr ""
+
+#: framework/class-theme-demo.php:784
+msgid "Padding Option for Sidebar"
+msgstr ""
+
+#: framework/class-theme-demo.php:797
+msgid "Border Option for Sidebar"
+msgstr ""
+
+#: framework/class-theme-demo.php:813
+msgid "Border Radius"
+msgstr ""
+
+#: framework/class-theme-demo.php:814 framework/class-theme-demo.php:977
+#: framework/class-theme-demo.php:1015 framework/class-theme-demo.php:1994
+msgid "Select border radius in px. Min: 0, max: 100, step: 1, default value: 0"
+msgstr ""
+
+#: framework/class-theme-demo.php:831
+msgid "Sidebar Width"
+msgstr ""
+
+#: framework/class-theme-demo.php:832 framework/class-theme-demo.php:848
+msgid "Total content zone width is 1170px. If you turn 2 sidebars on, remember about it."
+msgstr ""
+
+#: framework/class-theme-demo.php:847
+msgid "Content Column Width"
+msgstr ""
+
+#: framework/class-theme-demo.php:862
+msgid "Padding Option for Content Column"
+msgstr ""
+
+#: framework/class-theme-demo.php:877
+msgid "Buttons design styles"
+msgstr ""
+
+#: framework/class-theme-demo.php:886
+msgid "Padding Option for Buttons"
+msgstr ""
+
+#: framework/class-theme-demo.php:898
+msgid "Border Option for Buttons"
+msgstr ""
+
+#: framework/class-theme-demo.php:915
+msgid "Buttons Background Color"
+msgstr ""
+
+#: framework/class-theme-demo.php:927
+msgid "Buttons Text Color"
+msgstr ""
+
+#: framework/class-theme-demo.php:938
+msgid "Border Option for Buttons (hover)"
+msgstr ""
+
+#: framework/class-theme-demo.php:954
+msgid "Buttons Background Color (hover)"
+msgstr ""
+
+#: framework/class-theme-demo.php:965
+msgid "Buttons Text Color (hover)"
+msgstr ""
+
+#: framework/class-theme-demo.php:976
+msgid "Border Radius for Buttons"
+msgstr ""
+
+#: framework/class-theme-demo.php:991
+msgid "Inputs design styles"
+msgstr ""
+
+#: framework/class-theme-demo.php:996
+msgid "Border Option for Inputs"
+msgstr ""
+
+#: framework/class-theme-demo.php:1014
+msgid "Border Radius for Inputs"
+msgstr ""
+
+#: framework/class-theme-demo.php:1026
+msgid "Inputs Background Color"
+msgstr ""
+
+#: framework/class-theme-demo.php:1037
+msgid "Inputs Text Color"
+msgstr ""
+
+#: framework/class-theme-demo.php:1050 framework/inc/class-welcome-docs.php:69
+msgid "Typography"
+msgstr ""
+
+#: framework/class-theme-demo.php:1061
+msgid "We recommend to use font pair: one font for body text and one for headings. You can find good font pair on"
+msgstr ""
+
+#: framework/class-theme-demo.php:1067 framework/class-theme-demo.php:1243
+msgid "Body Font"
+msgstr ""
+
+#: framework/class-theme-demo.php:1068 framework/class-theme-demo.php:1244
+msgid "Specify the body font properties."
+msgstr ""
+
+#: framework/class-theme-demo.php:1084 framework/class-theme-demo.php:1260
+msgid "Heading H1 Font"
+msgstr ""
+
+#: framework/class-theme-demo.php:1085 framework/class-theme-demo.php:1261
+msgid "Specify the H1 font properties."
+msgstr ""
+
+#: framework/class-theme-demo.php:1104
+msgid "Heading H2 Font"
+msgstr ""
+
+#: framework/class-theme-demo.php:1105
+msgid "Specify the H2 font properties."
+msgstr ""
+
+#: framework/class-theme-demo.php:1123
+msgid "Heading H3 Font"
+msgstr ""
+
+#: framework/class-theme-demo.php:1124
+msgid "Specify the H3 font properties."
+msgstr ""
+
+#: framework/class-theme-demo.php:1143
+msgid "Reserved Font"
+msgstr ""
+
+#: framework/class-theme-demo.php:1144 framework/class-theme-demo.php:1162
+#: framework/class-theme-demo.php:1180 framework/class-theme-demo.php:1198
+#: framework/class-theme-demo.php:1216
+msgid "Connects the font."
+msgstr ""
+
+#: framework/class-theme-demo.php:1161
+msgid "Reserved Font #2"
+msgstr ""
+
+#: framework/class-theme-demo.php:1179
+msgid "Reserved Font #3"
+msgstr ""
+
+#: framework/class-theme-demo.php:1197
+msgid "Reserved Font #4"
+msgstr ""
+
+#: framework/class-theme-demo.php:1215
+msgid "Reserved Font #5"
+msgstr ""
+
+#: framework/class-theme-demo.php:1236
+msgid "Responsive Default Fonts"
+msgstr ""
+
+#: framework/class-theme-demo.php:1237
+msgid "Fonts settings for mobile version under width resolution 600px "
+msgstr ""
+
+#: framework/class-theme-demo.php:1280
+msgid "Translate"
+msgstr ""
+
+#: framework/class-theme-demo.php:1288
+msgid "Text for 404 error page"
+msgstr ""
+
+#: framework/class-theme-demo.php:1293
+msgid "404 Page Heading"
+msgstr ""
+
+#: framework/class-theme-demo.php:1294
+msgid "Not Found"
+msgstr ""
+
+#: framework/class-theme-demo.php:1299
+msgid "404 Page Description"
+msgstr ""
+
+#: framework/class-theme-demo.php:1300 framework/functions/class-layout.php:116
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: framework/class-theme-demo.php:1307
+msgid "Icon On 404 Error Page"
+msgstr ""
+
+#: framework/class-theme-demo.php:1316
+msgid "Custom CSS/JS"
+msgstr ""
+
+#: framework/class-theme-demo.php:1318
+msgid "Your settings for customization"
+msgstr ""
+
+#: framework/class-theme-demo.php:1326
+msgid "Header Section JS, CSS editors"
+msgstr ""
+
+#: framework/class-theme-demo.php:1327 framework/class-theme-demo.php:1365
+msgid "Click On to choice of editors to appear."
+msgstr ""
+
+#: framework/class-theme-demo.php:1333
+msgid "This code will appear in the HEADER secrion of the site"
+msgstr ""
+
+#: framework/class-theme-demo.php:1347 framework/class-theme-demo.php:1385
+msgid "JS Editor"
+msgstr ""
+
+#: framework/class-theme-demo.php:1356 framework/class-theme-demo.php:1394
+msgid "CSS Editor"
+msgstr ""
+
+#: framework/class-theme-demo.php:1364
+msgid "Footer Section JS, CSS editors"
+msgstr ""
+
+#: framework/class-theme-demo.php:1371
+msgid "This code will appear in the FOOTER secrion of the site"
+msgstr ""
+
+#: framework/class-theme-demo.php:1401
+msgid "Shop"
+msgstr ""
+
+#: framework/class-theme-demo.php:1408
+msgid "Choose Header type"
+msgstr ""
+
+#: framework/class-theme-demo.php:1417
+msgid "Select Slider for Shop"
+msgstr ""
+
+#: framework/class-theme-demo.php:1428
+msgid "Price Color"
+msgstr ""
+
+#: framework/class-theme-demo.php:1440
+msgid "Columns of Products"
+msgstr ""
+
+#: framework/class-theme-demo.php:1441
+msgid "For catalog and categories pages"
+msgstr ""
+
+#: framework/class-theme-demo.php:1447
+msgid "Related Products to show"
+msgstr ""
+
+#: framework/class-theme-demo.php:1448 framework/class-theme-demo.php:1455
+msgid "For product page"
+msgstr ""
+
+#: framework/class-theme-demo.php:1454
+msgid "Columns of related products"
+msgstr ""
+
+#: framework/class-theme-demo.php:1462
+msgid "Select shop page layout"
+msgstr ""
+
+#: framework/class-theme-demo.php:1463
+msgid "The option work for slug /shop/"
+msgstr ""
+
+#: framework/class-theme-demo.php:1508
+msgid "Select sidebar option for shop"
+msgstr ""
+
+#: framework/class-theme-demo.php:1534
+msgid "Widgets for Shop Left Sidebar"
+msgstr ""
+
+#: framework/class-theme-demo.php:1543
+msgid "Widgets for Shop Right Sidebar"
+msgstr ""
+
+#: framework/class-theme-demo.php:1553
+msgid "Select Header for Shop"
+msgstr ""
+
+#: framework/class-theme-demo.php:1563
+msgid "Select Footer for Shop"
+msgstr ""
+
+#: framework/class-theme-demo.php:1571
+msgid "Enable company field in checkout"
+msgstr ""
+
+#: framework/class-theme-demo.php:1577
+msgid "Enable address 1 field in checkout"
+msgstr ""
+
+#: framework/class-theme-demo.php:1583
+msgid "Enable address 2 field in checkout"
+msgstr ""
+
+#: framework/class-theme-demo.php:1589
+msgid "Enable state field in checkout"
+msgstr ""
+
+#: framework/class-theme-demo.php:1595
+msgid "Enable city field in checkout"
+msgstr ""
+
+#: framework/class-theme-demo.php:1601
+msgid "Enable phone field in checkout"
+msgstr ""
+
+#: framework/class-theme-demo.php:1607
+msgid "Enable postcode field in checkout"
+msgstr ""
+
+#: framework/class-theme-demo.php:1613
+msgid "Enable country field in checkout"
+msgstr ""
+
+#: framework/class-theme-demo.php:1620
+msgid "Blog"
+msgstr ""
+
+#: framework/class-theme-demo.php:1629
+msgid "Choose sidebar option for blog"
+msgstr ""
+
+#: framework/class-theme-demo.php:1630
+msgid "The option work for POST post type"
+msgstr ""
+
+#: framework/class-theme-demo.php:1656
+msgid "Widgets for Blog Left Sidebar"
+msgstr ""
+
+#: framework/class-theme-demo.php:1665
+msgid "Widgets for Blog Right Sidebar"
+msgstr ""
+
+#: framework/class-theme-demo.php:1676
+msgid "Blog Category Heading"
+msgstr ""
+
+#: framework/class-theme-demo.php:1677
+msgid "Specify the blog category heading font  properties."
+msgstr ""
+
+#: framework/class-theme-demo.php:1699 framework/class-theme-demo.php:1808
+msgid "The option work for Post post type"
+msgstr ""
+
+#: framework/class-theme-demo.php:1747
+msgid "Header Menu for Blog"
+msgstr ""
+
+#: framework/class-theme-demo.php:1763
+msgid "Footer for Blog"
+msgstr ""
+
+#: framework/class-theme-demo.php:1776
+msgid "Blog Heading Box"
+msgstr ""
+
+#: framework/class-theme-demo.php:1783
+msgid "Select blog header"
+msgstr ""
+
+#: framework/class-theme-demo.php:1787 framework/class-theme-demo.php:1791
+#: framework/class-theme-demo.php:1795
+msgid "Blog Head"
+msgstr ""
+
+#: framework/class-theme-demo.php:1807
+msgid "Select Slider for Blog"
+msgstr ""
+
+#: framework/class-theme-demo.php:1822
+msgid "Background settings for the heading box on the blog"
+msgstr ""
+
+#: framework/class-theme-demo.php:1839
+msgid "Gradient Underlay for Background From"
+msgstr ""
+
+#: framework/class-theme-demo.php:1851
+msgid "Gradient Underlay for Background To"
+msgstr ""
+
+#: framework/class-theme-demo.php:1863
+msgid "Gradient Overlay for Background From"
+msgstr ""
+
+#: framework/class-theme-demo.php:1875
+msgid "Gradient Overlay for Background To"
+msgstr ""
+
+#: framework/class-theme-demo.php:1893
+msgid "Padding Option for Heading Box"
+msgstr ""
+
+#: framework/class-theme-demo.php:1906
+msgid "Category Link Text Color"
+msgstr ""
+
+#: framework/class-theme-demo.php:1918
+msgid "Category Link Background Color"
+msgstr ""
+
+#: framework/class-theme-demo.php:1930
+msgid "Category Link Border"
+msgstr ""
+
+#: framework/class-theme-demo.php:1946
+msgid "Category Link Border Radius"
+msgstr ""
+
+#: framework/class-theme-demo.php:1947
+msgid "Select border radius in px. Min: 0, max: 20, step: 1, default value: 0"
+msgstr ""
+
+#: framework/class-theme-demo.php:1962
+msgid "H1 Heading Text Color"
+msgstr ""
+
+#: framework/class-theme-demo.php:1974
+msgid "Meta Data Text Color"
+msgstr ""
+
+#: framework/class-theme-demo.php:1993
+msgid "Border Radius for blog elements"
+msgstr ""
+
+#: framework/class-theme-demo.php:2005
+msgid "Display Post H1 Heading"
+msgstr ""
+
+#: framework/class-theme-demo.php:2006
+msgid "Do you want to show H1 heading for post? Usually we display it through drag&drop builder"
+msgstr ""
+
+#: framework/class-theme-demo.php:2014
+msgid "Related Posts for Single Post View"
+msgstr ""
+
+#: framework/class-theme-demo.php:2015
+msgid "Press On to template choice appear"
+msgstr ""
+
+#: framework/class-theme-demo.php:2021
+msgid "Related Posts Title"
+msgstr ""
+
+#: framework/class-theme-demo.php:2022
+msgid "Set Title for Related Posts section"
+msgstr ""
+
+#: framework/class-theme-demo.php:2030
+msgid "Show Post Author "
+msgstr ""
+
+#: framework/class-theme-demo.php:2036
+msgid "Show Post Category "
+msgstr ""
+
+#: framework/class-theme-demo.php:2042
+msgid "Show Post Tags "
+msgstr ""
+
+#: framework/class-theme-demo.php:2048
+msgid "Show Post Share "
+msgstr ""
+
+#: framework/class-theme-demo.php:2054
+msgid "Show Post Date "
+msgstr ""
+
+#: framework/class-theme-demo.php:2060
+msgid "Show Post Comments count "
+msgstr ""
+
+#: framework/class-theme-demo.php:2066
+msgid "Show Read More Link"
+msgstr ""
+
+#: framework/class-theme-demo.php:2072
+msgid "Read More Link Text"
+msgstr ""
+
+#: framework/class-theme-demo.php:2073 framework/class-theme-demo.php:2081
+msgid "Set Text for Read More Link"
+msgstr ""
+
+#: framework/class-theme-demo.php:2080
+msgid "Read More Link Text On Related Posts"
+msgstr ""
+
+#: framework/class-theme-demo.php:2087
+msgid "Modal Window"
+msgstr ""
+
+#: framework/class-theme-demo.php:2095
+msgid "Option enabling you to display a modal window before a user leaves your website."
+msgstr ""
+
+#: framework/class-theme-demo.php:2101
+msgid "Show Modal Window"
+msgstr ""
+
+#: framework/class-theme-demo.php:2109
+msgid "Select Modal Window"
+msgstr ""
+
+#: framework/class-theme-demo.php:2110
+msgid " Create a new Modal Window <a href=\"post-new.php?post_type=modal_window\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: framework/class-theme-demo.php:2119
+msgid "Close Button Color"
+msgstr ""
+
+#: framework/class-theme-demo.php:2131
+msgid "Aggressive Mode"
+msgstr ""
+
+#: framework/class-theme-demo.php:2132
+msgid "The modal to be eligible to fire anytime the page is loaded/ reloaded"
+msgstr ""
+
+#: framework/class-theme-demo.php:2139
+msgid "Set a min time before Ouibounce fires, in seconds"
+msgstr ""
+
+#: framework/class-theme-demo.php:2141
+msgid "By default, Ouibounce won't fire in the first second to prevent false positives, as it's unlikely the user will be able to exit the page within less than a second."
+msgstr ""
+
+#: framework/class-theme-demo.php:2148
+msgid "Cookie expiration, in days"
+msgstr ""
+
+#: framework/class-theme-demo.php:2149
+msgid "Ouibounce sets a cookie by default to prevent the modal from appearing more than once per user. By default, the cookie will expire at the end of the session, which for most browsers is when the browser is closed entirely."
+msgstr ""
+
+#: framework/class-theme-demo.php:2162
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/class-theme-demo.php:2164
+msgid "Appears in the left section of the site."
+msgstr ""
+
+#: framework/class-theme-demo.php:2171
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/class-theme-demo.php:2173
+msgid "Appears in the right section of the site."
+msgstr ""
+
+#: framework/class-theme-demo.php:2180
+msgid "Left Blog Sidebar"
+msgstr ""
+
+#: framework/class-theme-demo.php:2182
+msgid "Appears in the left blog section of the site."
+msgstr ""
+
+#: framework/class-theme-demo.php:2189
+msgid "Right Blog Sidebar"
+msgstr ""
+
+#: framework/class-theme-demo.php:2191
+msgid "Appears in the right blog section of the site."
+msgstr ""
+
+#: framework/class-theme-demo.php:2198
+msgid "Left Shop Sidebar"
+msgstr ""
+
+#: framework/class-theme-demo.php:2200 framework/class-theme-demo.php:2209
+msgid "Appears in the left shop section of the site."
+msgstr ""
+
+#: framework/class-theme-demo.php:2207
+msgid "Right Shop Sidebar"
+msgstr ""
+
+#: framework/class-theme-demo.php:2220
+msgid "SecretLab themes data was installed successfully"
+msgstr ""
+
+#: framework/class-theme-demo.php:2221
+msgid "You use more that one slider on the site, so we advise to you leave only one of them. You can deactiveta others at:"
+msgstr ""
+
+#: framework/class-theme-demo.php:2223
+msgid "plugins"
+msgstr ""
+
+#: framework/class-theme-demo.php:2229
+msgid "SecretLab"
+msgstr ""
+
+#: framework/class-theme-demo.php:2236
+msgid "Scroll to top"
+msgstr ""
+
+#: framework/functions/class-blog.php:101
+#: framework/functions/class-blog.php:160
+#: framework/functions/class-blog.php:203
+#: framework/functions/class-blog.php:250
+#: framework/functions/class-blog.php:299
+#: framework/functions/class-blog.php:352 single-composer_widget.php:50
+#: single-modal_window.php:42 single-portfolio.php:17
+msgid "Continue reading "
+msgstr ""
+
+#: framework/functions/class-blog.php:108
+#: framework/functions/class-blog.php:167
+#: framework/functions/class-blog.php:210
+#: framework/functions/class-blog.php:257
+#: framework/functions/class-blog.php:306
+#: framework/functions/class-blog.php:359 image.php:70 page.php:38
+#: single-composer_widget.php:57 single-modal_window.php:50
+#: single-portfolio.php:25
+msgid "Pages:"
+msgstr ""
+
+#: framework/functions/class-blog.php:132
+msgid "Date"
+msgstr ""
+
+#: framework/functions/class-blog.php:133
+msgid "Author"
+msgstr ""
+
+#: framework/functions/class-blog.php:134
+msgid "Category"
+msgstr ""
+
+#: framework/functions/class-blog.php:391
+#: framework/functions/class-blog.php:1128
+msgid "Full Post"
+msgstr ""
+
+#: framework/functions/class-blog.php:572
+#: framework/functions/class-blog.php:638
+#: framework/functions/class-blog.php:1030
+#: framework/functions/class-blog.php:1055
+#: framework/functions/class-blog.php:1462
+msgid "Read more"
+msgstr ""
+
+#: framework/functions/class-blog.php:749
+#: framework/functions/class-blog.php:790
+#: framework/functions/class-blog.php:833
+#: framework/functions/class-blog.php:880
+msgid "(optional)"
+msgstr ""
+
+#: framework/functions/class-blog.php:753
+#: framework/functions/class-blog.php:815
+#: framework/functions/class-blog.php:863
+#: framework/functions/class-blog.php:910
+msgid "Comment"
+msgstr ""
+
+#: framework/functions/class-blog.php:753
+#: framework/functions/class-blog.php:815
+#: framework/functions/class-blog.php:863
+#: framework/functions/class-blog.php:910
+msgid "Enter comment here..."
+msgstr ""
+
+#: framework/functions/class-blog.php:758
+#: framework/functions/class-blog.php:803
+#: framework/functions/class-blog.php:846
+#: framework/functions/class-blog.php:893
+#: woocommerce/single-product-reviews.php:89
+msgid "Name"
+msgstr ""
+
+#: framework/functions/class-blog.php:759
+#: framework/functions/class-blog.php:804
+#: framework/functions/class-blog.php:847
+#: framework/functions/class-blog.php:894
+msgid "Your Name"
+msgstr ""
+
+#: framework/functions/class-blog.php:763
+#: framework/functions/class-blog.php:809
+#: framework/functions/class-blog.php:852
+#: framework/functions/class-blog.php:899
+#: woocommerce/single-product-reviews.php:95
+msgid "Email"
+msgstr ""
+
+#: framework/functions/class-blog.php:764
+#: framework/functions/class-blog.php:810
+#: framework/functions/class-blog.php:853
+#: framework/functions/class-blog.php:900
+msgid "Your E-mail"
+msgstr ""
+
+#: framework/functions/class-blog.php:768
+#: framework/functions/class-blog.php:857
+#: framework/functions/class-blog.php:904
+msgid "Website"
+msgstr ""
+
+#: framework/functions/class-blog.php:769
+#: framework/functions/class-blog.php:858
+#: framework/functions/class-blog.php:905
+msgid "Your Website"
+msgstr ""
+
+#: framework/functions/class-blog.php:998
+#: framework/functions/class-blog.php:1257
+#: framework/functions/class-blog.php:1484
+#: framework/functions/class-blog.php:1494
+#: framework/functions/class-blog.php:1535
+#: framework/functions/class-blog.php:1539
+#: framework/functions/class-blog.php:1588
+#: framework/functions/class-blog.php:1592
+#: framework/functions/class-blog.php:1637
+#: framework/functions/class-blog.php:1641
+msgid "View all posts by"
+msgstr ""
+
+#: framework/functions/class-blog.php:1169
+msgid "May also like"
+msgstr ""
+
+#: framework/functions/class-blog.php:1257
+msgid "Comments(0)"
+msgstr ""
+
+#: framework/functions/class-blog.php:1257
+msgid "Comments(1)"
+msgstr ""
+
+#: framework/functions/class-blog.php:1257
+msgid "Comments(%)"
+msgstr ""
+
+#: framework/functions/class-blog.php:1300
+msgid "Related Posts"
+msgstr ""
+
+#: framework/functions/class-blog.php:1516
+#: framework/functions/class-blog.php:1522
+#: framework/functions/class-blog.php:1560
+#: framework/functions/class-blog.php:1566
+#: framework/functions/class-blog.php:1610
+#: framework/functions/class-blog.php:1616
+#: framework/functions/class-blog.php:1649
+#: framework/functions/class-blog.php:1655
+msgid "Add a comment"
+msgstr ""
+
+#: framework/functions/class-blog.php:1516
+#: framework/functions/class-blog.php:1522
+#: framework/functions/class-blog.php:1560
+#: framework/functions/class-blog.php:1566
+#: framework/functions/class-blog.php:1610
+#: framework/functions/class-blog.php:1616
+#: framework/functions/class-blog.php:1649
+#: framework/functions/class-blog.php:1655
+msgid "1 Comment"
+msgstr ""
+
+#: framework/functions/class-blog.php:1516
+#: framework/functions/class-blog.php:1522
+#: framework/functions/class-blog.php:1560
+#: framework/functions/class-blog.php:1566
+#: framework/functions/class-blog.php:1610
+#: framework/functions/class-blog.php:1616
+#: framework/functions/class-blog.php:1649
+#: framework/functions/class-blog.php:1655
+msgid "% Comments"
+msgstr ""
+
+#: framework/functions/class-blog.php:1686
+#: framework/functions/class-blog.php:1732
+#: framework/functions/class-blog.php:1775
+msgid "Previous Post"
+msgstr ""
+
+#: framework/functions/class-blog.php:1701
+#: framework/functions/class-blog.php:1745
+#: framework/functions/class-blog.php:1788
+msgid "Next Post"
+msgstr ""
+
+#: framework/functions/class-blog.php:1899
+#: framework/functions/class-blog.php:1905
+msgid "Tags"
+msgstr ""
+
+#: framework/functions/class-blog.php:1917
+#: framework/functions/class-blog.php:1937
+msgid "Share it"
+msgstr ""
+
+#: framework/functions/class-blog.php:1965
+msgid "Share This Post: "
+msgstr ""
+
+#: framework/functions/class-blog.php:1993
+msgid "Trackback:"
+msgstr ""
+
+#: framework/functions/class-blog.php:1993
+#: framework/functions/class-blog.php:1998
+#: framework/functions/class-blog.php:2022
+#: framework/functions/class-header.php:464
+#: framework/functions/class-header.php:564
+#: framework/functions/class-header.php:667
+#: framework/functions/class-header.php:744 image.php:42 page.php:46
+msgid "Edit"
+msgstr ""
+
+#: framework/functions/class-blog.php:1998
+msgid "Pingback:"
+msgstr ""
+
+#: framework/functions/class-blog.php:2014
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/functions/class-blog.php:2018
+msgid "at"
+msgstr ""
+
+#: framework/functions/class-blog.php:2020
+msgid "Reply"
+msgstr ""
+
+#: framework/functions/class-blog.php:2168
+msgid "Twitter Username"
+msgstr ""
+
+#: framework/functions/class-blog.php:2169
+msgid "Facebook Username"
+msgstr ""
+
+#: framework/functions/class-blog.php:2170
+msgid "Tumblr Username"
+msgstr ""
+
+#: framework/functions/class-blog.php:2171
+msgid "Instagram Username"
+msgstr ""
+
+#: framework/functions/class-blog.php:2172
+msgid "Pinterest Username"
+msgstr ""
+
+#: framework/functions/class-header.php:499
+#: framework/functions/class-header.php:599
+#: framework/functions/class-header.php:702
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: framework/functions/class-header.php:506
+#: framework/functions/class-header.php:606
+#: framework/functions/class-header.php:709
+#, php-format
+msgid "Archive: %s"
+msgstr ""
+
+#: framework/functions/class-header.php:512
+#: framework/functions/class-header.php:612
+#: framework/functions/class-header.php:715
+msgid "404"
+msgstr ""
+
+#: framework/functions/class-helpers.php:84
+msgid "Data was removed. Please, update the page."
+msgstr ""
+
+#: framework/functions/class-helpers.php:89
+msgid "Data was not removed for id="
+msgstr ""
+
+#: framework/functions/class-helpers.php:96
+msgid "You can't edit id="
+msgstr ""
+
+#: framework/functions/class-helpers.php:102
+msgid "Wrong data."
+msgstr ""
+
+#: framework/functions/class-layout.php:107
+msgid "Page not found"
+msgstr ""
+
+#: framework/functions/class-layout.php:123
+msgid "404 Not Found"
+msgstr ""
+
+#: framework/functions/class-layout.php:141
+msgid "Older posts"
+msgstr ""
+
+#: framework/functions/class-layout.php:146
+msgid "Newer posts"
+msgstr ""
+
+#: framework/inc/class-back-compat.php:36
+#: framework/inc/class-back-compat.php:46
+#: framework/inc/class-back-compat.php:58
+#, php-format
+msgid "The SecretLab requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:26
+#: framework/inc/class-plugins-list_f.php:26
+msgid "SecretLab Installer"
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:45
+#: framework/inc/class-plugins-list_f.php:46
+#: framework/inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:46
+#: framework/inc/class-plugins-list_f.php:47
+#: framework/inc/class-tgm-plugin-activation.php:335
+#: framework/inc/class-welcome-page.php:256
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:47
+#: framework/inc/class-plugins-list_f.php:48
+#: framework/inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:49
+#: framework/inc/class-plugins-list_f.php:49
+#: framework/inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:51
+#: framework/inc/class-plugins-list_f.php:50
+#: framework/inc/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:55
+#: framework/inc/class-plugins-list_f.php:51
+#: framework/inc/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:59
+#: framework/inc/class-plugins-list_f.php:52
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:63
+#: framework/inc/class-plugins-list_f.php:53
+#: framework/inc/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:67
+#: framework/inc/class-plugins-list_f.php:54
+#: framework/inc/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:71
+#: framework/inc/class-plugins-list_f.php:55
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:75
+#: framework/inc/class-plugins-list_f.php:56
+#: framework/inc/class-tgm-plugin-activation.php:355
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:79
+#: framework/inc/class-plugins-list_f.php:57
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:83
+#: framework/inc/class-plugins-list_f.php:58
+#: framework/inc/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:86
+#: framework/inc/class-plugins-list_f.php:59
+msgid "Activate installed plugin"
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:89
+#: framework/inc/class-plugins-list_f.php:60
+#: framework/inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:91
+#: framework/inc/class-plugins-list_f.php:61
+#: framework/inc/class-tgm-plugin-activation.php:394
+#: framework/inc/class-tgm-plugin-activation.php:3236
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:92
+#: framework/inc/class-plugins-list_f.php:62
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:109
+#: framework/inc/class-plugins-list_f.php:32
+msgid "Redux Framework"
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:114
+msgid "Caldera Forms"
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:121
+msgid "WooCommerce"
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:127
+msgid "Marketing and SEO Booster"
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:132
+msgid "SecretLab Shortcodes"
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:139
+msgid "KingComposer"
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:146
+msgid "KC Pro!"
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:153
+msgid "Easy Forms for MailChimp"
+msgstr ""
+
+#: framework/inc/class-plugins-list.php:159
+msgid "Revolution Slider"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:393
+#: framework/inc/class-tgm-plugin-activation.php:906
+#: framework/inc/class-tgm-plugin-activation.php:2611
+#: framework/inc/class-tgm-plugin-activation.php:3656
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:395
+#: framework/inc/class-tgm-plugin-activation.php:3029
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:596
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:597
+msgid "Update Required"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:1012
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:1012
+#: framework/inc/class-tgm-plugin-activation.php:1015
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:1015
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2060
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2351
+msgid "Required"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2354
+msgid "Recommended"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2370
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2373
+msgid "External Source"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2376
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2393
+msgid "Not Installed"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2397
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2399
+msgid "Active"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2405
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2408
+msgid "Requires Update"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2411
+msgid "Update recommended"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2420
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2470
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2474
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2478
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2560
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2568
+msgid "Installed version:"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2576
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2588
+msgid "Available version:"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2611
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2624
+msgid "Plugin"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2625
+msgid "Source"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2626
+msgid "Type"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2630
+msgid "Version"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2631
+msgid "Status"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2680
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2685
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2691
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2761
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2794
+msgid "Install"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2800
+msgid "Update"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2803
+msgid "Activate"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2834
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2836
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2877
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2879
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2985
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3011
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3235
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3575
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3578
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3580
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3584
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3586
+#: framework/inc/class-tgm-plugin-activation.php:3594
+msgid "Show Details"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3586
+#: framework/inc/class-tgm-plugin-activation.php:3594
+msgid "Hide Details"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3587
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3589
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3592
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3595
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:44
+#: framework/inc/class-welcome-page.php:193
+msgid "Installation"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:53
+msgid "Welcome to Atiframe Theme"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:54
+#: framework/inc/class-welcome-page.php:218
+msgid "Fully Customizable and Easy-to-use"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:62
+msgid "Settings"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:65
+#: framework/inc/class-welcome-page.php:340
+msgid "Edit Sliders"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:67
+msgid "(choose colors, design, pageloader, type of footer and header)"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:70
+#: framework/inc/class-welcome-page.php:345
+msgid "Menu"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:71
+#: framework/inc/class-welcome-page.php:346
+msgid "(configure your menu items)"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:72
+msgid "Edit Headers"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:73
+#: framework/inc/class-welcome-page.php:348
+msgid "(change design of header)"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:74
+msgid "Edit Footers"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:75
+#: framework/inc/class-welcome-page.php:350
+msgid "(if you choose it at Theme Options -> Design -> Footer)"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:77
+#: framework/inc/class-welcome-page.php:352
+msgid "Widgets"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:78
+#: framework/inc/class-welcome-page.php:353
+msgid "(choose custom footer to display)"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:79
+#: framework/inc/class-welcome-page.php:354
+msgid "Icon Fonts"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:81
+msgid "Contact Forms in Contact Form 7 Plugin"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:82
+#: framework/inc/class-welcome-page.php:357
+msgid "(setup your email data to receive requests)"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:83
+msgid "Change all email addresses"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:92
+msgid "Online knowledge base"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:93
+msgid "Auto Installation"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:105
+#: framework/inc/class-welcome-page.php:391
+msgid "Manager of Customer Care"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:107
+#: framework/inc/class-welcome-page.php:393
+msgid "Rate the theme"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:109
+#: framework/inc/class-welcome-page.php:395
+msgid "Oleg Malkov"
+msgstr ""
+
+#: framework/inc/class-welcome-docs.php:110
+#: framework/inc/class-welcome-page.php:396
+msgid "Send us feedback and criticism. Your feedback and experience is valuable for us! It will help to improve the theme."
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:65
+msgid "Start of attachments import - reading appropriate XML file"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:67
+msgid "XML file reading error occurred - check its existence"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:69
+msgid "Please select a file."
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:70
+msgid "There were no attachment files found in the import file."
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:72
+msgid "Parsing the file."
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:73
+msgid "Importing file "
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:74
+msgid "Overall progress: "
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:75
+msgid "An error occurred. In 5 seconds, retrying file "
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:77
+msgid "All done!"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:78
+msgid "There was an error connecting to the server."
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:80
+msgid "The program could not run. Check the error log below or your JavaScript console for more information"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:82
+msgid "There was a fatal error. Check the last entry in the error log below."
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:217
+msgid "Welcome to SecretLab Theme"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:220
+msgid "Auto Install"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:222
+msgid "Manual Install"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:234
+msgid "Automatic installation can take 2-8 min"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:243
+#: framework/inc/class-welcome-page.php:422
+msgid "Select Theme version"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:261
+msgid "Install plugins"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:265
+msgid "Activate plugins"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:269
+msgid "Do Page Technical Refresh"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:279
+msgid "Import Data"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:284
+msgid "Import attachments"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:289
+msgid "Attribute uploaded images to:"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:290
+msgid "Current User"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:292
+msgid "User in the import file"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:294
+msgid "Select User:"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:297
+msgid "Delay file requests by at least five seconds."
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:298
+msgid "This delay can be useful to mitigate hosts that throttle traffic when too many requests are detected from an IP address and mistaken for a DDOS attack."
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:302
+msgid "Import Demo Data"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:306
+msgid "Import Demo Revolution Sliders"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:310
+msgid "Import Theme Options"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:314
+#: framework/inc/class-welcome-page.php:464
+msgid "Import Caldera Forms"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:318
+#: framework/inc/class-welcome-page.php:468
+msgid "Import Widgets"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:325
+msgid "Start installation"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:329
+#: framework/inc/class-welcome-page.php:478
+msgid "Log of installation"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:337
+msgid "2. Setup your theme"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:342
+msgid "(required Redux Framework)"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:344
+msgid "Typography (required Redux Framework)"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:347
+msgid "Edit Header"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:349
+msgid "Edit Footer"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:356
+msgid "Contact Forms"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:378
+msgid "Online documentation"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:380
+msgid "Send a Ticket"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:382
+msgid "Response time is 24 hours"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:383
+msgid "Send your site, admin login and password please. It is increase time of solving your problem"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:416
+msgid "You can use it if you got any error and dont want to wait a solution from your hosting company."
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:418
+msgid "Details about manual installations process: "
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:435
+msgid "Begin installing plugins"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:436
+#: framework/inc/class-welcome-page.php:440
+#: framework/inc/class-welcome-page.php:448
+#: framework/inc/class-welcome-page.php:453
+#: framework/inc/class-welcome-page.php:457
+#: framework/inc/class-welcome-page.php:461
+#: framework/inc/class-welcome-page.php:465
+#: framework/inc/class-welcome-page.php:469
+msgid "Do It"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:439
+msgid "Begin activating plugins"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:443
+msgid "Refresh the page"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:446
+msgid "Import Dummy Data Attachments, It can take 5-15 min"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:451
+msgid "Import Dummy Data (Skip it, if you dont need demo-data)"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:452
+msgid " If it got error, you can run it again 2-6 times (at slow webhosting) until you get a success message"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:456
+msgid "Import Sliders"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:460
+msgid "Import Theme Option Set"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:472
+msgid "Go to Theme Options page to finish"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:491
+msgid "It seems you have started SecretLab Theme Install already, now you are trying to change Theme Type to another one. Are you sure?"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:493
+msgid "Continue"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:495
+msgid "Stop"
+msgstr ""
+
+#: framework/inc/class-welcome-page.php:502
+msgid "Install SecretLab Installer plugin to install the theme"
+msgstr ""
+
+#: functions.php:58
+msgid "Header Menu"
+msgstr ""
+
+#: image.php:18
+msgid "Published on"
+msgstr ""
+
+#: image.php:18
+msgid "Return to"
+msgstr ""
+
+#: image.php:36
+msgid "Link to full-size image"
+msgstr ""
+
+#: image.php:37
+msgid "Full resolution"
+msgstr ""
+
+#: image.php:49
+msgid "Previous"
+msgstr ""
+
+#: image.php:50
+msgid "Next"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:4
+msgid "Enter a query"
+msgstr ""
+
+#: taxonomy-post_format.php:19
+#, php-format
+msgid "%s Archives"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Add your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:121
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:125
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:126
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:127
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:128
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:129
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:130
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:131
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:135
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:142
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""

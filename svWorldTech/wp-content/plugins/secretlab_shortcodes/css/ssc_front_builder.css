@@ -1,0 +1,9 @@
+@media (min-width: 1025px) {
+    /* For front Editor */
+    .kc_row div.kc-wrap-columns {
+        position: unset;
+    }
+    .ssc-full-col.kc_column:hover {
+        position: absolute;
+    }
+}

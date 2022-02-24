@@ -1,0 +1,45 @@
+/*
+
+Theme Name:  Biscon Child
+Theme URI: https://secretlab.pw/portfolio/biscon/
+Author: secretlaboratory
+Author URI: https://secretlab.pw/
+Description: Business Consulting WordPress Theme
+Text Domain: biscon
+Template: biscon
+
+Version: 1.0
+License: Commercial
+License URI: http://themeforest.net/licenses/terms/regular
+
+
+*/
+
+/* YOU CAN PUT YOUR OWN CSS HERE */
+
+.head_button .nat-phone-handset::after {
+    background: rgba(255, 98, 98, 0.9);
+}
+body.kc-css-system .kc-css-611885 .ssc_button span,
+body.kc-css-system .kc-css-4622637 .ssc_button span,
+.head_button::before {
+	background: rgba(255, 98, 98, 0.8);
+}
+main button, .footer-widget button, main input[type="button"], main input[type="reset"], main input[type="submit"], .headline input[type="submit"],
+.widget_tag_cloud .tagcloud a:hover, .tagcloud a:hover, .single .tags-links a:hover,
+ul.page-numbers li .current,
+ul.page-numbers li a:hover,
+.entry-meta .scat a,
+body.kc-css-system .kc-css-289492 .caldera-grid input.btn,
+.search-form input[type="submit"], main .woocommerce-product-search button,
+body .alayout7 article .scat a, .single .slayout7 .rblock .scat a {
+	background-color: #ff6262;
+}
+main button:hover, .footer-widget button:hover, main input[type="button"]:hover, main input[type="reset"]:hover, main input[type="submit"]:hover, .headline input[type="submit"]:hover,
+body.kc-css-system .kc-css-289492 .caldera-grid input.btn:hover,
+.search-form input[type="submit"]:hover, main .woocommerce-product-search button:hover {
+	background-color: rgba(255, 69, 69, 0.5);
+}
+body .alayout7 article .scat a:hover, .alayout7 .post .c_block .scat a:hover, .single .slayout7 .rblock .scat:hover {
+    background-color: #ff4545;
+}
